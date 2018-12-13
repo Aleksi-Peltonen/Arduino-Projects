@@ -1,1 +1,1 @@
-# WS2812B
+# Project for testing FastLED-library and general Arduino code
