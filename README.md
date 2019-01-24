@@ -1,3 +1,3 @@
-# WS2812B
+# Arduino Projects
 Arduino Projects
 Projects involving Arduino devices
